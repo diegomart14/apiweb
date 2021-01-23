@@ -26,7 +26,7 @@ function Cards() {
                 <div id='caja'>
                 <Card border="info" style={{ width: '18rem' }}>
                     <Card.Body>
-                        <Card.Title className="text-center">Visa</Card.Title>
+                        <Card.Title className="text-center">Tarjeta Visa</Card.Title>
                         <Card.Subtitle className="mb-2 text-muted text-center">Pagas Onlines</Card.Subtitle>
                         <Card.Text>
                             API's de videos. Esta API permite la subida y la bajada de ....
