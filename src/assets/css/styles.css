@@ -1,0 +1,43 @@
+#imagen{
+    min-height: 400px; 
+    background: url('../images/api1.jpg')no-repeat;
+    background-size: cover;
+}
+#imagen h3{
+    margin-top: 0px; 
+    padding-top: 60px; 
+    text-align: center; 
+    color: white; 
+    font-size: 45px;
+}
+#clor{
+    color: rgb(255, 0, 0);
+}
+span{
+    color: rgba(34, 226, 82, 0.781);
+    font-size: 25px;
+}
+#place{
+    align-items: center;
+    margin: 5% 14%;
+    width: 250px;
+    border: solid 2px ;
+}
+#text{
+    font-size: 25px;
+    color: blue;
+}
+section div{
+    display: block;
+    flex-wrap: wrap;
+}
+footer{
+    background:rgb(26, 25, 25); 
+    color: white; text-align: center;
+    padding: 10px; 
+    margin-top: 10px;
+}
+footer div p{
+    width:100%;
+    text-align: center
+}
